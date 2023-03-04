@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\net6.0\OperacionesBasicas.exe
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\net6.0\OperacionesBasicas.deps.json
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\net6.0\OperacionesBasicas.runtimeconfig.json
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\net6.0\OperacionesBasicas.dll
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\net6.0\OperacionesBasicas.pdb
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.AssemblyInfo.cs
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.dll
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\refint\OperacionesBasicas.dll
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.pdb
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\OperacionesBasicas.genruntimeconfig.cache
+C:\Users\mario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\net6.0\ref\OperacionesBasicas.dll
