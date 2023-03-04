@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\bin\Debug\net6.0\juegoImaginario.exe
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\bin\Debug\net6.0\juegoImaginario.deps.json
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\bin\Debug\net6.0\juegoImaginario.runtimeconfig.json
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\bin\Debug\net6.0\juegoImaginario.dll
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\bin\Debug\net6.0\juegoImaginario.pdb
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.AssemblyInfo.cs
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.dll
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\refint\juegoImaginario.dll
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.pdb
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\juegoImaginario.genruntimeconfig.cache
+C:\Users\mario\source\repos\juegoImaginario\juegoImaginario\obj\Debug\net6.0\ref\juegoImaginario.dll

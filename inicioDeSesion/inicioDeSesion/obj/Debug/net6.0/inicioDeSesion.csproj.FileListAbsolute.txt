@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\bin\Debug\net6.0\inicioDeSesion.exe
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\bin\Debug\net6.0\inicioDeSesion.deps.json
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\bin\Debug\net6.0\inicioDeSesion.runtimeconfig.json
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\bin\Debug\net6.0\inicioDeSesion.dll
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\bin\Debug\net6.0\inicioDeSesion.pdb
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.AssemblyInfo.cs
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.dll
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\refint\inicioDeSesion.dll
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.pdb
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\inicioDeSesion.genruntimeconfig.cache
+C:\Users\mario\source\repos\inicioDeSesion\inicioDeSesion\obj\Debug\net6.0\ref\inicioDeSesion.dll

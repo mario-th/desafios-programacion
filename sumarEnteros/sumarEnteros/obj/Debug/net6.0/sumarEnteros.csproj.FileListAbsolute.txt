@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\bin\Debug\net6.0\sumarEnteros.exe
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\bin\Debug\net6.0\sumarEnteros.deps.json
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\bin\Debug\net6.0\sumarEnteros.runtimeconfig.json
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\bin\Debug\net6.0\sumarEnteros.dll
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\bin\Debug\net6.0\sumarEnteros.pdb
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.AssemblyInfo.cs
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.dll
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\refint\sumarEnteros.dll
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.pdb
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\sumarEnteros.genruntimeconfig.cache
+C:\Users\mario\source\repos\sumarEnteros\sumarEnteros\obj\Debug\net6.0\ref\sumarEnteros.dll
